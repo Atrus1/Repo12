@@ -26,6 +26,6 @@ var myPetsArray = [
   }
 
 //
-    console.log(myPetsFunction (myPetsArray[1]));
+    console.log( (myPetsArray[1].name));
     module.exports = myPetsFunction;
     module.exports.myPets = myPetsArray;
